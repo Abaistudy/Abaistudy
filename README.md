@@ -1,16 +1,24 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/CSGrade22-34 |
+| -----------------  |--------------- |
+| 这个作业要求在哪里   | https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228 |
+| 这个作业的目标       | 创建自己的博客，作自我介绍，明确自己之后的学习目标|
 
-<!--
-**Abaistudy/Abaistudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自我介绍
 
-Here are some ideas to get you started:
+大家好，我是广东工业大学22级计科的郑玮源，平时爱好是和朋友打打游戏，看看小说，目前正在学习的方向是后端开发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 教材浏览
+
+#### 五个问题
+1.软件生命周期模型有哪些类型，它们各自的优缺点是什么？
+
+2.需求分析在软件工程中扮演什么角色？
+
+3.软件测试的目的是什么，有哪些主要的测试类型和方法？
+
+4.在软件维护过程中，如何确定维护的优先级和影响范围？
+
+5.代码审查在软件开发过程中有哪些重要性和实施策略？
+
+## 预期收获
+希望能学习到软件开发的过程，在将来的工作提供助力，在现阶段提高思维能力和设计思想。
